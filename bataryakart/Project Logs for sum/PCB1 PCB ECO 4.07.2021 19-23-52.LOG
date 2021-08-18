@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Res2.2 Old Footprint=RES_2.2K New Footprint=RES2.2K
+Change component parameters: Designator = "Res2.2" ("Res2.2"); Footprint = "RES_2.2K"; UniqueID = "\LMCOFMKO" ("\LMCOFMKO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ERA-6APB222V/Panasonic/view-part/3718729/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERA-6APB222V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERA-6APB222V/Panasonic/view-part/3718729/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A105880TB-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

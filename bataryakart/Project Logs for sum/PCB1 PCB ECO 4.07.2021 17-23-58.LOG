@@ -1,0 +1,13 @@
+Added Component: Designator=Q(BC547B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC547A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC547A/ON%20Semiconductor/view-part/805861/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ_1 Pin=Q-1
+Added Pin To Net: NetName=NetQ_2 Pin=Q-2
+Added Pin To Net: NetName=GND Pin=Q-3
+Added Member To Class: ClassName=Sheet1 Member=Component Q BC547A
+Added Room: Name=Sheet1

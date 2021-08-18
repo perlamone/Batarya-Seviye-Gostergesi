@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=D NewDesignator=Red
+Change Component Designator: OldDesignator=D? NewDesignator=GreenLed
+Change Component Designator: OldDesignator=R? NewDesignator=Res2.2
+Change Component Designator: OldDesignator=R? NewDesignator=res3.3
+Change Component Designator: OldDesignator=R? NewDesignator=Res220R
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetGreenLed_A
+Added Pin To Net: NetName=NetQ_1 Pin=Red-C
+Added Net: Name=NetQ_1
+Added Member To Class: ClassName=Sheet1 Member=Component Res2.2 RES2.2K
+Added Member To Class: ClassName=Sheet1 Member=Component res3.3 RES3.3K
